@@ -1,0 +1,90 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2025 - Supplier Dossier: GREENSLEEVES HOMES TRUST"
+- entity_id: "GREENSLEEVES HOMES TRUST"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-04-02T19:33:25+02:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: GREENSLEEVES HOMES TRUST
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £34,627.44
+- **Invoice Frequency**: 18 payments processed
+- **Mean Transaction Value**: £1,923.75
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £34,627.44
+- **Transaction Volume**: 18 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | S4_AA-Care Purchasing | £34,627 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £4,400.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £5,048.12 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £4,417.60 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £4,452.52 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £5,016.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £6,276.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-829.64 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-816.24 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-1,416.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-649.44 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-331.80 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-480.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-480.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £5,016.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-892.32 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £3,828.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £-731.36 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+- Paid £2,800.00 to GREENSLEEVES HOMES TRUST (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `21/01/2025` | 18 | £34,627.44 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
