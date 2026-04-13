@@ -1,0 +1,93 @@
+﻿---
+- title: "Suffolk County Council - Expenses - January 2025 - Supplier Dossier: WOODBRIDGE LODGE"
+- entity_id: "WOODBRIDGE LODGE"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-04-13T22:36:34+02:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: WOODBRIDGE LODGE
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £38,208.96
+- **Invoice Frequency**: 21 payments processed
+- **Mean Transaction Value**: £1,819.47
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £38,208.96
+- **Transaction Volume**: 21 Invoices
+- **Lead Department**: S4_AA-Care Purchasing
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | S4_AA-Care Purchasing | £38,209 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £3,440.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £3,440.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £3,440.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £3,440.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £4,600.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £3,700.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £3,916.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £4,000.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £4,111.24 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £4,144.60 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £5,290.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-1,258.32 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-1,076.40 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-1,064.80 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-1,203.80 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-1,121.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-891.16 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-817.04 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £-693.64 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+- Paid £3,440.00 to WOODBRIDGE LODGE (S4_AA-Care Purchasing)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `21/01/2025` | 21 | £38,208.96 | `**** ` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: scc-spend-jan-2025.csv ]
+- [REF: Suffolk Council Council January 2025 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.suffolk.gov.uk/asset-library/scc-spend-jan-2025.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
