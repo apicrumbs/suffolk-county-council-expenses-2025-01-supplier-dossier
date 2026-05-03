@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-26T10:22:36+02:00"
+- last_updated: "2026-05-03T23:07:36+02:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -69,6 +69,8 @@
 - Paid £2,553.60 to YOUR LIFE CARE SOLUTIONS (S4_AA-Care Purchasing)
 - Paid £2,681.28 to YOUR LIFE CARE SOLUTIONS (S4_AA-Care Purchasing)
 - Paid £2,681.28 to YOUR LIFE CARE SOLUTIONS (S4_AA-Care Purchasing)
+- Paid £8,937.60 to YOUR LIFE CARE SOLUTIONS (S4_AA-Care Purchasing)
+- Paid £8,937.60 to YOUR LIFE CARE SOLUTIONS (S4_AA-Care Purchasing)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: scc-spend-jan-2025.csv ]
