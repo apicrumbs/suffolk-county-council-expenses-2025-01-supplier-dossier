@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-05-11T14:46:16+00:00"
+- last_updated: "2026-05-12T08:46:11+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
